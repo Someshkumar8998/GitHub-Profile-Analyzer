@@ -164,7 +164,7 @@ This project is licensed under the MIT License.
 **Somesh Kumar K V**
 
 * GitHub: https://github.com/Someshkumar8998
-* LinkedIn:(https://www.linkedin.com/in/someshkumar-kv-8193b42a2)
+* LinkedIn:https://www.linkedin.com/in/someshkumar-kv-8193b42a2
 
 ---
 
